@@ -1,4 +1,4 @@
-package com.example.temporalautoconfigure.common;
+package com.example.temporalautoconfigure.controller;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
